@@ -12,9 +12,9 @@ pipeline {
                         case 'MONDAY':
                             stage('MONDAY'){
                                 script{
-                                    stage('Chiste de fútbol'){
+                                    stage('Chiste de futbol'){
                                         println 'En la cola del mercado:' +
-                                        '\n-Perdona, ¿El último?' +
+                                        '\n-Perdona, ¿El ultimo?' +
                                         '\n-El Celta con 17 puntos.'
                                     }
                                 }
@@ -23,12 +23,12 @@ pipeline {
                         case 'TUESDAY':
                             stage('TUESDAY'){
                                 script{
-                                    stage('Chiste de política'){
-                                        println 'Un hombre, al pasar frente al Congreso de los Diputados, escucha un tremendo griterío que salía desde la sala:' +
-                                        '\n"Ladrón, mentiroso, comisionista, difamador, chorizo, sinvergüenza, flojo de mierda, imbécil, timador, cabrón, corrupto, vendido, golfo, aprovechado, cara dura, falso, chupón, inútil, pesetero, estafador, vago de mierda, saqueador, gilipollas, bobo, oportunista, embaucador, tramposo, hijo de la gran puta,...........etc.' +
+                                    stage('Chiste de politica'){
+                                        println 'Un hombre, al pasar frente al Congreso de los Diputados, escucha un tremendo griterio que salía desde la sala:' +
+                                        '\n"Ladron, mentiroso, comisionista, difamador, chorizo, sinvergüenza, flojo de mierda, imbecil, timador, cabrón, corrupto, vendido, golfo, aprovechado, cara dura, falso, chupón, inutil, pesetero, estafador, vago de mierda, saqueador, gilipollas, bobo, oportunista, embaucador, tramposo, hijo de la gran puta,...........etc.' +
                                         '\nEl hombre asustado le pregunta al guardia de la entrada:' +
-                                        '\n- Señor, ¿qué pasa dentro?, ¿se están peleando?' +
-                                        '\n- No, responde el guardia, yo creo que están pasando lista.'
+                                        '\n- Señor, ¿que pasa dentro?, ¿se estan peleando?' +
+                                        '\n- No, responde el guardia, yo creo que estan pasando lista.'
                                     }
                                 }
                             }
@@ -36,11 +36,11 @@ pipeline {
                         case 'WEDNESDAY':
                             stage('WEDNESDAY'){
                                 script{
-                                    stage('Chiste de médicos'){
-                                        println 'Llega un hombre a una farmacia y le pregunta al farmacéutico:' +
+                                    stage('Chiste de medicos'){
+                                        println 'Llega un hombre a una farmacia y le pregunta al farmaceutico:' +
                                         '\n- ¿Tiene pastillas para los nervios?' +
                                         '\n- Si' +
-                                        '\n-¡Pues tómese dos que esto es un atraco!'
+                                        '\n-¡Pues tomese dos que esto es un atraco!'
                                     }
                                 }
                             }
@@ -63,9 +63,9 @@ pipeline {
                             stage('FRIDAY'){
                                 script{
                                     stage('Chiste de humor negro'){
-                                        println 'Una mujer llega a casa y se encuentra a su marido esnifando cocaína:' +
-                                        '\n-Antonio ¡me prometiste que no te drogarías más!' +
-                                        '\n-Lo sé cariño si no voy a drogarme más sólo lo de siempre.'
+                                        println 'Una mujer llega a casa y se encuentra a su marido esnifando cocaina:' +
+                                        '\n-Antonio ¡me prometiste que no te drogarias mas!' +
+                                        '\n-Lo se cariño si no voy a drogarme más solo lo de siempre.'
                                     }
                                 }
                             }
